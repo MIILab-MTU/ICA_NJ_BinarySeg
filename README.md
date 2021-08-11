@@ -7,13 +7,16 @@ images + binary labels
 Data used in our paper: 
 Chen Zhao, Aviral Vij, Saurabh Malhotra, Jinshan Tang, Haipeng Tang, Drew Pienta, Zhihui Xu, Weihua Zhou,
 Automatic extraction and stenosis evaluation of coronary arteries in invasive coronary angiograms,
+
 Computers in Biology and Medicine,
+
 Volume 136,
 2021,
 104667,
 ISSN 0010-4825,
 https://doi.org/10.1016/j.compbiomed.2021.104667.
 (https://www.sciencedirect.com/science/article/pii/S0010482521004613)
+
 Abstract: Background
 Coronary artery disease (CAD) is the leading cause of death in the United States (US) and a major contributor to healthcare cost. Accurate segmentation of coronary arteries and detection of stenosis from invasive coronary angiography (ICA) are crucial in clinical decision making.
 Purpose
